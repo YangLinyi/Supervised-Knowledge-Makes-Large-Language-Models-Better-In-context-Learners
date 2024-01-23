@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href=" ">
-    <img src="figures_md/supercontext.pdf" alt="Logo" width="500">
+    <img src="figures_md/supercontext.pdf" alt="" width="480">
   </a>
   </br>
   <a>Linyi Yang<sup>*1,2</sup></a>&emsp;
