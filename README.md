@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href=" ">
-    <img src="figures_md/supercontext.pdf" alt="" width="480">
+    <img src="figures_md/supercontext.png" alt="" width="480">
   </a>
   </br>
   <a>Linyi Yang<sup>*1,2</sup></a>&emsp;
@@ -34,7 +34,7 @@ Paper: [Supervised Knowledge Makes Large Language Models Better In-context Learn
 
 Large Language Models (LLMs) exhibit emerging in-context learning abilities through prompt engineering. The recent progress in large-scale generative models has further expanded their use in real-world language applications. However, the critical challenge of improving the generalizability and factuality of LLMs in natural language understanding and question answering remains under-explored. While previous in-context learning research has focused on enhancing models to adhere to users' specific instructions and quality expectations, and to avoid undesired outputs, little to no work has explored the use of task-Specific fine-tuned Language Models (SLMs) to improve LLMs' in-context learning during the inference stage. Our primary contribution is the establishment of a simple yet effective framework that enhances the reliability of LLMs as it: 1) generalizes out-of-distribution data, 2) elucidates how LLMs benefit from discriminative models, and 3) minimizes hallucinations in generative tasks. Using our proposed plug-in method, enhanced versions of Llama 2 and ChatGPT surpass their original versions regarding generalizability and factuality. **We offer a comprehensive suite of resources, including 16 curated datasets, prompts, model checkpoints, and LLM outputs across 9 distinct tasks.** Our empirical analysis sheds light on the advantages of incorporating discriminative models into LLMs and highlights the potential of our methodology in fostering more reliable LLMs.
 
-![img](figures_md/example_prompt.pdf)
+![img](figures_md/example_prompt.png)
 
 This repository contains:
 
