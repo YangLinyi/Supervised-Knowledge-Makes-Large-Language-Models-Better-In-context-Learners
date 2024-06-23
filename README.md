@@ -1,9 +1,8 @@
 # Supervised Knowledge Makes Large Language Models Better In-context Learners
 
 <div align="center">
-  <a href=" ">
-    <img src="figures_md/supercontext.png" alt="" width="480">
-  </a>
+
+<img src="figures_md/supercontext.png" width="400px">
   </br>
   <a>Linyi Yang<sup>*1,2</sup></a>&emsp;
   <a>Shuibai Zhang<sup>*1</sup></a>&emsp;
