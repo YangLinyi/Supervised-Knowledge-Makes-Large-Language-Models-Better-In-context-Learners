@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="figures_md/supercontext.png" width="400px">
+<img src="figures_md/supercontext.png" width="600px">
   </br>
   <a>Linyi Yang<sup>*1,2</sup></a>&emsp;
   <a>Shuibai Zhang<sup>*1</sup></a>&emsp;
